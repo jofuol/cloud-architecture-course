@@ -213,7 +213,7 @@ hash fragment to the image URL:
     name of your scheme.
 
   [color palette toggle]: ../setup/changing-the-colors.md#color-palette-toggle
-  [Zelda light world]: ../../docs/assets/images/zelda-light-world.png#only-light
-  [Zelda dark world]: ../../docs/assets/images/zelda-dark-world.png#only-dark
+  [Zelda light world]: ../assets/images/zelda-light-world.png#only-light
+  [Zelda dark world]: ../assets/images/zelda-dark-world.png#only-dark
   [color schemes]: ../setup/changing-the-colors.md#color-scheme
   [custom color schemes]: ../setup/changing-the-colors.md#custom-color-schemes

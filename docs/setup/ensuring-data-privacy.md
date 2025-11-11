@@ -129,7 +129,7 @@ When a user first visits your site, a cookie consent form is rendered:
 [![Cookie consent enabled]][Cookie consent enabled]
 
   [Custom cookies]: #custom-cookies
-  [Cookie consent enabled]: ../../docs/assets/screenshots/consent.png
+  [Cookie consent enabled]: ../assets/screenshots/consent.png
 
 #### Change cookie settings
 

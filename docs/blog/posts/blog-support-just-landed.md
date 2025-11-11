@@ -181,24 +181,24 @@ Additionally, the [built-in blog plugin] has dozens of [configuration options]
 which allow for fine-tuning the output. You can configure post slugs, general
 behavior and much more.
 
-  [exact same Markdown flavor]: ../../../docs_old/reference/index.md
-  [post slugs]: ../../../docs_old/plugins/blog.md#config.post_url_format
-  [draft]: ../../../docs_old/plugins/blog.md#meta.draft
-  [This behavior can be changed]: ../../../docs_old/plugins/blog.md#config.draft
-  [live preview server]: ../../../docs_old/creating-your-site.md#previewing-as-you-write
-  [archive]: ../../../docs_old/plugins/blog.md#config.archive
-  [category]: ../../../docs_old/plugins/blog.md#config.categories
+  [exact same Markdown flavor]: ../../reference/index.md
+  [post slugs]: ../../plugins/blog.md#config.post_url_format
+  [draft]: ../../plugins/blog.md#meta.draft
+  [This behavior can be changed]: ../../plugins/blog.md#config.draft
+  [live preview server]: ../../creating-your-site.md#previewing-as-you-write
+  [archive]: ../../plugins/blog.md#config.archive
+  [category]: ../../plugins/blog.md#config.categories
   [Blog]: blog-support-just-landed/blog.png
   [Blog post]: blog-support-just-landed/blog-post.png
-  [Adding an excerpt]: ../../../docs_old/setup/setting-up-a-blog.md#adding-an-excerpt
-  [Adding authors]: ../../../docs_old/setup/setting-up-a-blog.md#adding-authors
-  [Adding categories]: ../../../docs_old/setup/setting-up-a-blog.md#adding-categories
-  [Adding tags]: ../../../docs_old/setup/setting-up-a-blog.md#adding-tags
-  [Adding related links]: ../../../docs_old/setup/setting-up-a-blog.md#adding-related-links
-  [Linking from and to posts]: ../../../docs_old/setup/setting-up-a-blog.md#linking-from-and-to-posts
-  [Setting the reading time]: ../../../docs_old/setup/setting-up-a-blog.md#setting-the-reading-time
-  [Setting defaults]: ../../../docs_old/setup/setting-up-a-blog.md#setting-defaults
-  [configuration options]: ../../../docs_old/setup/setting-up-a-blog.md#configuration
+  [Adding an excerpt]: ../../setup/setting-up-a-blog.md#adding-an-excerpt
+  [Adding authors]: ../../setup/setting-up-a-blog.md#adding-authors
+  [Adding categories]: ../../setup/setting-up-a-blog.md#adding-categories
+  [Adding tags]: ../../setup/setting-up-a-blog.md#adding-tags
+  [Adding related links]: ../../setup/setting-up-a-blog.md#adding-related-links
+  [Linking from and to posts]: ../../setup/setting-up-a-blog.md#linking-from-and-to-posts
+  [Setting the reading time]: ../../setup/setting-up-a-blog.md#setting-the-reading-time
+  [Setting defaults]: ../../setup/setting-up-a-blog.md#setting-defaults
+  [configuration options]: ../../setup/setting-up-a-blog.md#configuration
 
 ## What's next?
 

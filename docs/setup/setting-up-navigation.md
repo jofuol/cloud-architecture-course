@@ -249,8 +249,8 @@ theme:
 
     [![Navigation tabs disabled]][Navigation tabs disabled]
 
-  [Navigation tabs enabled]: ../../docs/assets/screenshots/navigation-tabs.png
-  [Navigation tabs disabled]: ../../docs/assets/screenshots/navigation.png
+  [Navigation tabs enabled]: ../assets/screenshots/navigation-tabs.png
+  [Navigation tabs disabled]: ../assets/screenshots/navigation.png
 
 #### Sticky navigation tabs
 
@@ -276,8 +276,8 @@ theme:
 
     [![Sticky navigation tabs disabled]][Sticky navigation tabs disabled]
 
-  [Sticky navigation tabs enabled]: ../../docs/assets/screenshots/navigation-tabs-sticky.png
-  [Sticky navigation tabs disabled]: ../../docs/assets/screenshots/navigation-tabs-collapsed.png
+  [Sticky navigation tabs enabled]: ../assets/screenshots/navigation-tabs-sticky.png
+  [Sticky navigation tabs disabled]: ../assets/screenshots/navigation-tabs-collapsed.png
 
 ### Navigation sections
 
@@ -302,8 +302,8 @@ theme:
 
     [![Navigation sections disabled]][Navigation sections disabled]
 
-  [Navigation sections enabled]: ../../docs/assets/screenshots/navigation-sections.png
-  [Navigation sections disabled]: ../../docs/assets/screenshots/navigation.png
+  [Navigation sections enabled]: ../assets/screenshots/navigation-sections.png
+  [Navigation sections disabled]: ../assets/screenshots/navigation.png
 
 Both feature flags, [`navigation.tabs`][tabs] and
 [`navigation.sections`][sections], can be combined with each other. If both
@@ -332,8 +332,8 @@ theme:
 
     [![Navigation expansion disabled]][Navigation expansion disabled]
 
-  [Navigation expansion enabled]: ../../docs/assets/screenshots/navigation-expand.png
-  [Navigation expansion disabled]: ../../docs/assets/screenshots/navigation.png
+  [Navigation expansion enabled]: ../assets/screenshots/navigation-expand.png
+  [Navigation expansion disabled]: ../assets/screenshots/navigation.png
 
 ### Navigation path <small>Breadcrumbs</small> { id=navigation-path }
 
@@ -361,8 +361,8 @@ theme:
 
     [![Navigation path disabled]][Navigation path disabled]
 
-  [Navigation path enabled]: ../../docs/assets/screenshots/navigation-path-on.png
-  [Navigation path disabled]: ../../docs/assets/screenshots/navigation-path-off.png
+  [Navigation path enabled]: ../assets/screenshots/navigation-path-on.png
+  [Navigation path disabled]: ../assets/screenshots/navigation-path-off.png
 
 ### Navigation pruning
 
@@ -432,8 +432,8 @@ nav:
 
 1.  MkDocs also considers files called `README.md` as [index pages].
 
-  [Section index pages enabled]: ../../docs/assets/screenshots/navigation-index-on.png
-  [Section index pages disabled]: ../../docs/assets/screenshots/navigation-index-off.png
+  [Section index pages enabled]: ../assets/screenshots/navigation-index-on.png
+  [Section index pages disabled]: ../assets/screenshots/navigation-index-off.png
   [toc.integrate]: #navigation-integration
   [index pages]: https://www.mkdocs.org/user-guide/writing-your-docs/#index-pages
 
@@ -483,8 +483,8 @@ theme:
     [![Navigation integration disabled]][Navigation integration disabled]
 
   [table of contents]: extensions/python-markdown.md#table-of-contents
-  [Navigation integration enabled]: ../../docs/assets/screenshots/toc-integrate.png
-  [Navigation integration disabled]: ../../docs/assets/screenshots/navigation-tabs.png
+  [Navigation integration enabled]: ../assets/screenshots/toc-integrate.png
+  [Navigation integration disabled]: ../assets/screenshots/navigation-tabs.png
   [navigation.indexes]: #section-index-pages
 
 ### Back-to-top button
@@ -536,9 +536,9 @@ hide:
 
     [![Hide both enabled]][Hide both enabled]
 
-  [Hide navigation enabled]: ../../docs/assets/screenshots/hide-navigation.png
-  [Hide table of contents enabled]: ../../docs/assets/screenshots/hide-toc.png
-  [Hide both enabled]: ../../docs/assets/screenshots/hide-navigation-toc.png
+  [Hide navigation enabled]: ../assets/screenshots/hide-navigation.png
+  [Hide table of contents enabled]: ../assets/screenshots/hide-toc.png
+  [Hide both enabled]: ../assets/screenshots/hide-navigation-toc.png
 
 ### Hiding the navigation path
 

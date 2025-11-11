@@ -159,42 +159,42 @@ Furthermore, a large amount of time was invested into refactoring the code base
 to keep it in good shape. While the `mkdocs-material` package was released
 __55__ times, `mkdocs-material-insiders` was shipped __72__ times.
 
-  [Insiders]: ../../../docs_old/insiders/index.md
-  [Admonition inline blocks]: ../../../docs_old/reference/admonitions.md#inline-blocks
+  [Insiders]: ../../insiders/index.md
+  [Admonition inline blocks]: ../../reference/admonitions.md#inline-blocks
   [Advanced search highlighting]: search-better-faster-smaller.md#accurate-highlighting
-  [Anchor tracking]: ../../../docs_old/setup/setting-up-navigation.md#anchor-tracking
-  [Back-to-top button]: ../../../docs_old/setup/setting-up-navigation.md#back-to-top-button
-  [Boosting pages in search]: ../../../docs_old/setup/setting-up-site-search.md#search-boosting
+  [Anchor tracking]: ../../setup/setting-up-navigation.md#anchor-tracking
+  [Back-to-top button]: ../../setup/setting-up-navigation.md#back-to-top-button
+  [Boosting pages in search]: ../../setup/setting-up-site-search.md#search-boosting
   [Brand new search plugin]: search-better-faster-smaller.md
-  [Code annotations]: ../../../docs_old/reference/code-blocks.md#adding-annotations
-  [Code annotations: strip comments]: ../../../docs_old/reference/code-blocks.md#stripping-comments
-  [Code block titles]: ../../../docs_old/reference/code-blocks.md#adding-a-title
-  [Code block line anchors]: ../../../docs_old/setup/extensions/python-markdown-extensions.md#+pymdownx.highlight.anchor_linenums
-  [Color palette toggle]: ../../../docs_old/setup/changing-the-colors.md#color-palette-toggle
-  [Content tabs: improved support]: ../../../docs_old/reference/content-tabs.md
-  [Content tabs: auto-linking]: ../../../docs_old/reference/content-tabs.md#linked-content-tabs
-  [Cookie consent]: ../../../docs_old/setup/ensuring-data-privacy.md#cookie-consent
-  [Custom admonition icons]: ../../../docs_old/reference/admonitions.md#admonition-icons
-  [Dark mode support for images]: ../../../docs_old/reference/images.md#light-and-dark-mode
-  [Dismissable announcement bar]: ../../../docs_old/setup/setting-up-the-header.md#mark-as-read
-  [Excluding content from search]: ../../../docs_old/setup/setting-up-site-search.md#search-exclusion
-  [Mermaid.js integration]: ../../../docs_old/reference/diagrams.md
-  [Navigation icons]: ../../../docs_old/reference/index.md#setting-the-page-icon
-  [Remove generator notice]: ../../../docs_old/setup/setting-up-the-footer.md#generator-notice
+  [Code annotations]: ../../reference/code-blocks.md#adding-annotations
+  [Code annotations: strip comments]: ../../reference/code-blocks.md#stripping-comments
+  [Code block titles]: ../../reference/code-blocks.md#adding-a-title
+  [Code block line anchors]: ../../setup/extensions/python-markdown-extensions.md#+pymdownx.highlight.anchor_linenums
+  [Color palette toggle]: ../../setup/changing-the-colors.md#color-palette-toggle
+  [Content tabs: improved support]: ../../reference/content-tabs.md
+  [Content tabs: auto-linking]: ../../reference/content-tabs.md#linked-content-tabs
+  [Cookie consent]: ../../setup/ensuring-data-privacy.md#cookie-consent
+  [Custom admonition icons]: ../../reference/admonitions.md#admonition-icons
+  [Dark mode support for images]: ../../reference/images.md#light-and-dark-mode
+  [Dismissable announcement bar]: ../../setup/setting-up-the-header.md#mark-as-read
+  [Excluding content from search]: ../../setup/setting-up-site-search.md#search-exclusion
+  [Mermaid.js integration]: ../../reference/diagrams.md
+  [Navigation icons]: ../../reference/index.md#setting-the-page-icon
+  [Remove generator notice]: ../../setup/setting-up-the-footer.md#generator-notice
   [Rich search previews]: search-better-faster-smaller.md#rich-search-previews
-  [Search highlighting]: ../../../docs_old/setup/setting-up-site-search.md#search-highlighting
-  [Search sharing]: ../../../docs_old/setup/setting-up-site-search.md#search-sharing
-  [Search suggestions]: ../../../docs_old/setup/setting-up-site-search.md#search-suggestions
-  [Section index pages]: ../../../docs_old/setup/setting-up-navigation.md#section-index-pages
-  [Site language selection]: ../../../docs_old/setup/changing-the-language.md#site-language-selector
-  [Social cards]: ../../../docs_old/setup/setting-up-social-cards.md
-  [Sticky navigation tabs]: ../../../docs_old/setup/setting-up-navigation.md#sticky-navigation-tabs
-  [Tags with search integration]: ../../../docs_old/setup/setting-up-tags.md
+  [Search highlighting]: ../../setup/setting-up-site-search.md#search-highlighting
+  [Search sharing]: ../../setup/setting-up-site-search.md#search-sharing
+  [Search suggestions]: ../../setup/setting-up-site-search.md#search-suggestions
+  [Section index pages]: ../../setup/setting-up-navigation.md#section-index-pages
+  [Site language selection]: ../../setup/changing-the-language.md#site-language-selector
+  [Social cards]: ../../setup/setting-up-social-cards.md
+  [Sticky navigation tabs]: ../../setup/setting-up-navigation.md#sticky-navigation-tabs
+  [Tags with search integration]: ../../setup/setting-up-tags.md
   [Tokenizer with lookahead]: search-better-faster-smaller.md#tokenizer-lookahead
-  [Versioning]: ../../../docs_old/setup/setting-up-versioning.md#versioning
-  [Version warning]: ../../../docs_old/setup/setting-up-versioning.md#version-warning
-  [Was this page helpful?]: ../../../docs_old/setup/setting-up-site-analytics.md#was-this-page-helpful
-  [changelog]: ../../../docs_old/changelog/index.md
+  [Versioning]: ../../setup/setting-up-versioning.md#versioning
+  [Version warning]: ../../setup/setting-up-versioning.md#version-warning
+  [Was this page helpful?]: ../../setup/setting-up-site-analytics.md#was-this-page-helpful
+  [changelog]: ../../changelog/index.md
 
 ### Funding
 

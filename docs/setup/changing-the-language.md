@@ -95,7 +95,7 @@ The following properties are available for each alternate language:
 
   [site_url]: https://www.mkdocs.org/user-guide/configuration/#site_url
   [ISO 639-1 language code]: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  [Language selector preview]: ../../docs/assets/screenshots/language-selection.png
+  [Language selector preview]: ../assets/screenshots/language-selection.png
 
 #### Stay on page
 

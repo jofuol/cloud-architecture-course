@@ -58,9 +58,9 @@ Our vision is to provide you with the tools that allow you to __own your docs__,
 
     For instance, the [privacy plugin] can work together with the [optimize plugin] so that external assets can be passed through the same optimization pipeline as the rest of your documentation. This means you can store and edit unoptimized files outside of your repository, and let both plugins automatically build an optimized site for you.
 
-  [built-in plugins]: ../../../docs_old/plugins/index.md
-  [privacy plugin]: ../../../docs_old/plugins/privacy.md
-  [optimize plugin]: ../../../docs_old/plugins/optimize.md
+  [built-in plugins]: ../../plugins/index.md
+  [privacy plugin]: ../../plugins/privacy.md
+  [optimize plugin]: ../../plugins/optimize.md
 
 ## Challenges
 
@@ -124,7 +124,7 @@ As you may know, our initial effort involved the [projects plugin] that aims to 
 
     Implementing multi-project support in MkDocs is particularly challenging due to the lack of an official programmatic API, which complicates efforts to extend its functionality. Moreover, resolving navigation issues before building projects is crucial for ensuring proper interconnectivity. These challenges combined made the development of the projects plugin a complex endeavor.
 
-  [projects plugin]: ../../../docs_old/plugins/projects.md
+  [projects plugin]: ../../plugins/projects.md
   [good progress]: https://github.com/squidfunk/mkdocs-material/discussions/5800
 
 __:octicons-goal-16: Goal – Enable scaling documentation to any size or team structure by offering seamless methods for integrating multiple documentation projects, whether they involve different languages, versions, or distinct sections of an overall body of work.__
@@ -155,8 +155,8 @@ We had considered developing a live editor in response to MkDocs' [performance i
   [ground-up rewrite]: https://github.com/mkdocs/sketch
   [rendering only the page currently being built]: https://github.com/mkdocs/mkdocs/issues/3695#issuecomment-2117939743
   [mkdocstrings]: https://mkdocstrings.github.io/
-  [built-in blog]: ../../../docs_old/plugins/blog.md
-  [tags]: ../../../docs_old/plugins/tags.md
+  [built-in blog]: ../../plugins/blog.md
+  [tags]: ../../plugins/tags.md
   [does not require or support plugins]: https://github.com/mkdocs/mkdocs/discussions/3815#discussioncomment-10398312
   [a team call on August 1]: https://github.com/mkdocs/mkdocs/discussions/3671#discussioncomment-10164237
   [we raised objections multiple times]: https://github.com/mkdocs/mkdocs/discussions/3671#discussioncomment-10215445

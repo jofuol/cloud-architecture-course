@@ -787,10 +787,10 @@ values for all options from other `theme` settings.
 
 The following options are available:
 
-  [Layout default]: ../../docs/assets/screenshots/social-cards.png
-  [Layout default variant]: ../../docs/assets/screenshots/social-cards-variant.png
-  [Layout default accent]: ../../docs/assets/screenshots/social-cards-accent.png
-  [Layout default invert]: ../../docs/assets/screenshots/social-cards-invert.png
+  [Layout default]: ../assets/screenshots/social-cards.png
+  [Layout default variant]: ../assets/screenshots/social-cards-variant.png
+  [Layout default accent]: ../assets/screenshots/social-cards-accent.png
+  [Layout default invert]: ../assets/screenshots/social-cards-invert.png
 
   [primary color]: ../setup/changing-the-colors.md#primary-color
   [page icon]: ../reference/index.md#setting-the-page-icon
