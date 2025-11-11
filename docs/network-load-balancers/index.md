@@ -1,3 +1,11 @@
+---
+template: home.html
+title: Google Cloud Architect Documentation Course
+social:
+  cards_layout_options:
+    title: Google Cloud Architect Documentation Course
+---
+
 # Set Up Network Load Balancers [Link][Link_to_lab_on_google_skills]
 
 ## Overview
