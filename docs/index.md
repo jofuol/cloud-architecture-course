@@ -10,4 +10,4 @@ Google Cloud Architect Documentation Course
 
 [network-load-balancers][network-load-balancers]
 
-network-load-balancers: [network-load-balancers/index.md]
+[network-load-balancers]: network-load-balancers/index.md
