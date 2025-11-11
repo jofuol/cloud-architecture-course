@@ -195,7 +195,7 @@ The following properties are available for each rating:
 
   [feedback widget]: #feedback
   [analytics]: #google-analytics
-  [feedback report]: ../assets/screenshots/feedback-report.png
+  [feedback report]: ../../docs/assets/screenshots/feedback-report.png
   [custom feedback integration]: #custom-site-feedback
   [custom icons]: https://github.com/squidfunk/mkdocs-material/tree/master/material/templates/.icons
   [Google Forms]: https://www.google.com/forms/about/

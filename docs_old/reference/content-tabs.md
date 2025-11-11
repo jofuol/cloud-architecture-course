@@ -99,8 +99,8 @@ integrated with [instant loading] and persisted across page loads.
     [![Linked content tabs disabled]][Linked content tabs disabled]
 
   [instant loading]: ../setup/setting-up-navigation.md#instant-loading
-  [Linked content tabs enabled]: ../assets/screenshots/content-tabs-link.png
-  [Linked content tabs disabled]: ../assets/screenshots/content-tabs.png
+  [Linked content tabs enabled]: ../../docs/assets/screenshots/content-tabs-link.png
+  [Linked content tabs disabled]: ../../docs/assets/screenshots/content-tabs.png
 
 ## Usage
 

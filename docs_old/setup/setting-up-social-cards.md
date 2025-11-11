@@ -28,7 +28,7 @@ Social card of our [formatting] reference
   [default layouts]: ../plugins/social.md#layouts
   [custom layouts]: #customization
   [formatting]: ../reference/formatting.md
-  [Layout default variant]: ../assets/screenshots/social-cards-variant.png
+  [Layout default variant]: ../../docs/assets/screenshots/social-cards-variant.png
 
 ## Configuration
 
@@ -313,7 +313,7 @@ The layer outline and grid are visible because we enabled [`debug`][debug]
 mode in `mkdocs.yml`. The top left shows the layer index and offset, which is
 useful for alignment and composition.
 
-  [Layer size]: ../assets/screenshots/social-cards-layer-size.png
+  [Layer size]: ../../docs/assets/screenshots/social-cards-layer-size.png
   [debug]: ../plugins/social.md#debugging
 
 #### Origin
@@ -395,9 +395,9 @@ Background images are automatically scaled to fit the layer while preserving
 aspect-ratio. Notice how we omitted `size` and `offset`, because we want to
 fill the entire area of the social card.
 
-[Layer background color]: ../assets/screenshots/social-cards-layer-background-color.png
-[Layer background image]: ../assets/screenshots/social-cards-layer-background-image.png
-[Layer background]: ../assets/screenshots/social-cards-layer-background.png
+[Layer background color]: ../../docs/assets/screenshots/social-cards-layer-background-color.png
+[Layer background image]: ../../docs/assets/screenshots/social-cards-layer-background-image.png
+[Layer background]: ../../docs/assets/screenshots/social-cards-layer-background.png
 
 ### Typography
 
@@ -447,7 +447,7 @@ descender.[^2] This renders:
 
   [config variable]: https://www.mkdocs.org/dev-guide/themes/#config
   [page variable]: https://www.mkdocs.org/dev-guide/themes/#page
-  [Layer typography]: ../assets/screenshots/social-cards-layer-typography.png
+  [Layer typography]: ../../docs/assets/screenshots/social-cards-layer-typography.png
 
 #### Overflow
 
@@ -488,8 +488,8 @@ layers:
         style: Bold
 ```
 
-  [Layer typography ellipsis]: ../assets/screenshots/social-cards-layer-typography-ellipsis.png
-  [Layer typography shrink]: ../assets/screenshots/social-cards-layer-typography-shrink.png
+  [Layer typography ellipsis]: ../../docs/assets/screenshots/social-cards-layer-typography-ellipsis.png
+  [Layer typography shrink]: ../../docs/assets/screenshots/social-cards-layer-typography-shrink.png
 
 #### Alignment
 
@@ -498,7 +498,7 @@ want to align the text to the middle of the layer, we can set `align` to  `start
 
 ![Layer typography align]
 
-  [Layer typography align]: ../assets/screenshots/social-cards-layer-typography-align.png
+  [Layer typography align]: ../../docs/assets/screenshots/social-cards-layer-typography-align.png
 
 The following table shows the supported values:
 
@@ -637,7 +637,7 @@ Note that this example makes use of [YAML anchors] to minify repetition. The
 
 __Are you missing something? Please [open a discussion] and let us know!__
 
-  [additional icons]: ./changing-the-logo-and-icons.md#additional-icons
-  [Layer icon]: ../assets/screenshots/social-cards-layer-icon.png
-  [Layer icon circles]: ../assets/screenshots/social-cards-layer-icon-circles.png
+  [additional icons]: changing-the-logo-and-icons.md#additional-icons
+  [Layer icon]: ../../docs/assets/screenshots/social-cards-layer-icon.png
+  [Layer icon circles]: ../../docs/assets/screenshots/social-cards-layer-icon-circles.png
   [open a discussion]: https://github.com/squidfunk/mkdocs-material/discussions/new

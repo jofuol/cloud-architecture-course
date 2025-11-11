@@ -52,7 +52,7 @@ Check out the versioning example to see it in action –
     to particularly notable versions. This makes it easy to make permalinks to
     whatever version of the documentation you want to direct people to.
 
-  [Version selector preview]: ../assets/screenshots/versioning.png
+  [Version selector preview]: ../../docs/assets/screenshots/versioning.png
   [version example]: https://mkdocs-material.github.io/example-versioning/
   [Why use mike?]: https://github.com/jimporter/mike#why-use-mike
 
@@ -127,7 +127,7 @@ redirected to.
 
   [theme extension]: ../customization.md#extending-the-theme
   [overriding blocks]: ../customization.md#overriding-blocks
-  [Version warning preview]: ../assets/screenshots/version-warning.png
+  [Version warning preview]: ../../docs/assets/screenshots/version-warning.png
   [default version]: #setting-a-default-version
 
 ### Version alias

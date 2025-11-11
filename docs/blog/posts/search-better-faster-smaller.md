@@ -205,7 +205,7 @@ more magic involved, e.g., search results are [post-processed] and [rescored] to
 account for some shortcomings of [lunr], but in general, this is how data gets
 into and out of the index.
 
-  [separator]: ../../plugins/search.md#config.separator
+  [separator]: ../../../docs_old/plugins/search.md#config.separator
   [default tokenizer]: https://github.com/olivernn/lunr.js/blob/aa5a878f62a6bba1e8e5b95714899e17e8150b38/lunr.js#L413-L456
   [post-processed]: https://github.com/squidfunk/mkdocs-material/blob/ec7ccd2b2d15dd033740f388912f7be7738feec2/src/assets/javascripts/integrations/search/_/index.ts#L249-L272
   [rescored]: https://github.com/squidfunk/mkdocs-material/blob/ec7ccd2b2d15dd033740f388912f7be7738feec2/src/assets/javascripts/integrations/search/_/index.ts#L274-L275
@@ -485,7 +485,7 @@ digit `\d`, which leaves version numbers discoverable. Searching for
 [:octicons-search-24: 7.2.6][q=7.2.6] brings up the [7.2.6] release notes.
 
   [q=7.2.6]: ?q=7.2.6
-  [7.2.6]: ../../changelog/index.md#7.2.6
+  [7.2.6]: ../../../docs_old/changelog/index.md#7.2.6
 
 #### HTML/XML tags
 
@@ -596,7 +596,7 @@ page load. When navigating, the search index is preserved across pages, so the
 cost does only have to be paid once.
 
   [KJV Markdown]: https://github.com/arleym/kjv-markdown
-  [instant loading]: ../../setup/setting-up-navigation.md#instant-loading
+  [instant loading]: ../../../docs_old/setup/setting-up-navigation.md#instant-loading
 
 ### User interface
 

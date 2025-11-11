@@ -196,7 +196,7 @@ arbitrary content before and after the marker:
 
 [![Tags index][tags index enabled]][tags index enabled]
 
-  [tags index enabled]: ../assets/screenshots/tags-index.png
+  [tags index enabled]: ../../docs/assets/screenshots/tags-index.png
 
 ### Advanced features
 

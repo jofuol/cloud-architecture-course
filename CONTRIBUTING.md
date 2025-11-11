@@ -53,10 +53,10 @@ and brings value to both new and experienced users of Material for MkDocs.
     __Want to create a pull request?__ Learn how to create a comprehensive
     and useful pull request (PR)s
 
-  [Report a bug]: docs/contributing/reporting-a-bug.md
-  [Report a docs issue]: docs/contributing/reporting-a-docs-issue.md
-  [Request a change]: docs/contributing/requesting-a-change.md
+  [Report a bug]: docs_old/contributing/reporting-a-bug.md
+  [Report a docs issue]: docs_old/contributing/reporting-a-docs-issue.md
+  [Request a change]: docs_old/contributing/requesting-a-change.md
   [Ask a question]: https://github.com/squidfunk/mkdocs-material/discussions
-  [Add a translation]: docs/contributing/adding-translations.md
-  [Create a pull request]: docs/contributing/making-a-pull-request.md
+  [Add a translation]: docs_old/contributing/adding-translations.md
+  [Create a pull request]: docs_old/contributing/making-a-pull-request.md
 

@@ -155,8 +155,8 @@ We're working on shipping essential functionality as provided by MkDocs plugins 
 
   [Compatibility with Material for MkDocs]: https://zensical.org/compatibility/
   [feature parity]: https://zensical.org/compatibility/features/
-  [search]: ../../plugins/search.md
-  [offline]: ../../plugins/offline.md
+  [search]: ../../../docs_old/plugins/search.md
+  [offline]: ../../../docs_old/plugins/offline.md
 
 ## Zensical Spark
 

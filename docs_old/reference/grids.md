@@ -173,7 +173,7 @@ when [hiding both sidebars].
   [mkdocs-material]: https://pypistats.org/packages/mkdocs-material
   [pip]: ../getting-started.md#with-pip
   [getting started]: ../getting-started.md
-  [reference]: ../reference/index.md
+  [reference]: index.md
   [customization]: ../customization.md
   [license]: ../license.md
   [GitHub]: https://github.com/squidfunk/mkdocs-material
