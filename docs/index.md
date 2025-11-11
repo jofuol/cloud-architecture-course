@@ -1,13 +1,9 @@
 ---
 template: home.html
-title: Google Cloud Architect Documentation Course
+title: Material for MkDocs
 social:
   cards_layout_options:
-    title: Google Cloud Architect Documentation Course
+    title: Documentation that simply works
 ---
 
-Google Cloud Architect Documentation Course
-
-[network-load-balancers][network-load-balancers]
-
-[network-load-balancers]: network-load-balancers/index.md
+Welcome to Material for MkDocs.
