@@ -1,0 +1,10 @@
+# Google Cloud CLI - Managing Firewall Rules
+
+## Create a firewall rule
+
+This command create a firewall rule to allow external traffic to the VM instance
+
+```shell
+gcloud compute firewall-rules create www-firewall-network-lb \
+--target-tags network-lb-tag --allow tcp:80
+```
