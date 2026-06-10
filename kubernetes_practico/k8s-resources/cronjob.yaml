@@ -1,0 +1,15 @@
+apiVersion: batch/v1 
+kind: CronJob 
+metadata: 
+  name: hola-cronjob 
+spec: 
+  schedule: "*/1 * * * *" 
+  jobTemplate: 
+    spec: 
+      template: 
+        spec: 
+          containers: 
+          - name: hola 
+            image: busybox 
+            command: ["/bin/sh", "-c", "echo Hola desde CronJob"] 
+          restartPolicy: OnFailure 
